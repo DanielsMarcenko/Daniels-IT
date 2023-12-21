@@ -1,0 +1,6 @@
+q = 1
+n = 31
+while n >= q*q:
+ q = q + 1
+q = q - 1
+print(q)
